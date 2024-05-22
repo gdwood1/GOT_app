@@ -9,8 +9,11 @@ The objective of this project is to create a dynamic and interactive web applica
 - React Router DOM
 - Vercel
 
+## API
+- https://anapioficeandfire.com/
+
 ## How to Run
 - `npm start`
 
 ## Site
-- 
+- https://got-app-lyart.vercel.app/
